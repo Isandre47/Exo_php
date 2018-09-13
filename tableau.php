@@ -1,6 +1,5 @@
 <?php
 
-
 $films = [
     "Les aventuriers de l'arche perdu" => ["Harrison Ford", "KAren Allen", "Paul Freeman."],
     "Indiana Jones et le temple maudit" => ["Harrison Ford", "Kate Capshaw", "Jonathan Ke Quan."],
@@ -15,6 +14,4 @@ foreach ($films as $key => $value){
     }    
     echo("<br>");
 }
-
-
 ?>
