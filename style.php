@@ -1,0 +1,6 @@
+.form{
+    width: 80%;
+    height: 600px;
+    border: 2px solid black;
+    text-align: center;
+}
